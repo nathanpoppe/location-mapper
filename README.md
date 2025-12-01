@@ -1,2 +1,4 @@
-pip install -r requirements.txt
-python3 src/main.py
+pip install uv
+uv pip install -r requirements.txt
+python3 main.py
+
